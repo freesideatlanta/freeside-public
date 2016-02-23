@@ -1,5 +1,5 @@
 ﻿body {
-﻿   display: none;
+    display: none;
     position: relative;
     font-family: 'Open Sans', sans-serif;
     /*padding-top: 110px;*/
@@ -132,34 +132,6 @@ aside {
 }
 .range-title {
     color: darkblue;
-}
-
-.sports-icon-list {
-    background-color: #333;
-    padding-bottom: 40px;
-}
-.sports-icon-list a {
-    color: white;
-}
-.sports-icon-list a h6 {
-    margin-top: 2px;
-    margin-bottom: 14px;
-}
-.sports-icon-list img {
-    width:70px;
-    height:70px;
-}
-
-.sports-list-top div {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-
-.sports-list-top a {
-    margin-left: 30px;
-    margin-right: 30px;
-    display: inline-block;
 }
 
 article {
