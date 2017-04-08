@@ -1,9 +1,6 @@
 ﻿body {
-    display: none;
     position: relative;
     font-family: 'Open Sans', sans-serif;
-    /*padding-top: 110px;*/
-
 }
 
 .navbar {
@@ -44,7 +41,7 @@
 
 .title-row {
     position: relative;
-    min-height: 300px;
+    min-height: 600px;
 }
 .title-image {
     position: absolute;
